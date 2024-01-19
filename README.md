@@ -1,6 +1,6 @@
 <h1>Bank Term Deposit prediction</h1>
 
-![Alt text](img3.png)
+![Alt text](img.jpeg)
 
 Exploratory Data Analysis (EDA), Data cleaning, feature extraction on 12 features and testing several ML models to predict whether a customer will subscribe to a term deposit. 
   
