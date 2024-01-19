@@ -1,0 +1,17 @@
+pandas
+numpy
+seaborn
+python-multipart
+scikit-learn
+notebook
+matplotlib
+python-box==6.0.2
+pyYaml
+ensure==1.0.2
+xgboost
+joblib
+types-pyYaml
+fastapi
+uvicorn
+streamlit
+# -e .
